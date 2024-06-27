@@ -19,7 +19,7 @@ This application connects to OneDrive using the Microsoft Graph API to:
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-repo/onedrive-node-app.git
+git clone https://github.com/kamatsaurabh/OneDriveDemo
 cd onedrive-node-app
 Install dependencies:
 sh
